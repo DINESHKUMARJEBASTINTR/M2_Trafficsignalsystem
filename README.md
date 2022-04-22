@@ -13,31 +13,25 @@
 |---|
 |[![Cppcheck](https://github.com/DINESHKUMARJEBASTINTR
 /
-M2_Trafficsignalsystem
-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR
+M2_Trafficsignalsystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR
 /
-M2_Trafficsignalsystem
-/actions/workflows/cppcheck.yml)|
+M2_Trafficsignalsystem/actions/workflows/cppcheck.yml)|
 
 |CODACY BADGE|
 |---|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/af568a389af94facaee1a1f1cf679bc5)](https://www.codacy.com/gh/DINESHKUMARJEBASTINTR
 /
-M2_Trafficsignalsystem
-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DINESHKUMARJEBASTINTR
+M2_Trafficsignalsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DINESHKUMARJEBASTINTR
 /
-M2_Trafficsignalsystem
-&amp;utm_campaign=Badge_Grade)|
+M2_Trafficsignalsystem&amp;utm_campaign=Badge_Grade)|
 
 |BUILD BADGE|
 |---|
 |[![Build](https://github.com/DINESHKUMARJEBASTINTR
 /
-M2_Trafficsignalsystem
-/actions/workflows/compile.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR
+M2_Trafficsignalsystem/actions/workflows/compile.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR
 /
-M2_Trafficsignalsystem
-/actions/workflows/compile.yml)|
+M2_Trafficsignalsystem/actions/workflows/compile.yml)|
 
 FOLDER STRUCTURE
 

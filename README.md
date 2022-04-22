@@ -1,1 +1,51 @@
 # M2_Trafficsignalsystem
+# M2-Embedded_Traffic-signal-system
+
+       The  project  is  aimed  at  designing  a  density based dynamic traffic signal system 
+        where the  timing of signal  will  change  automatically  on  sensing  the  traffic density  at
+        any  junction.  Traffic  congestion  is  a  severe problem in most cities across the world and therefore
+        it is time to shift more manual mode or fixed timer mode to an automated  system  with  decision  making 
+        capabilities. Present  day traffic  signaling system  is fixed  time based which  may  render
+        inefficient  if one  lane  is operational than the others. To optimize this problem we have made
+        a framework  for  an  intelligent  traffic  control  system.
+        
+|CPPCHECK BADGE|
+|---|
+|[![Cppcheck](https://github.com/DINESHKUMARJEBASTINTR
+/
+M2_Trafficsignalsystem
+/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR
+/
+M2_Trafficsignalsystem
+/actions/workflows/cppcheck.yml)|
+
+|CODACY BADGE|
+|---|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/af568a389af94facaee1a1f1cf679bc5)](https://www.codacy.com/gh/DINESHKUMARJEBASTINTR
+/
+M2_Trafficsignalsystem
+/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DINESHKUMARJEBASTINTR
+/
+M2_Trafficsignalsystem
+&amp;utm_campaign=Badge_Grade)|
+
+|BUILD BADGE|
+|---|
+|[![Build](https://github.com/DINESHKUMARJEBASTINTR
+/
+M2_Trafficsignalsystem
+/actions/workflows/compile.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR
+/
+M2_Trafficsignalsystem
+/actions/workflows/compile.yml)|
+
+FOLDER STRUCTURE
+
+|Folder|Description|
+|---|---|
+|1_Requirements|Detailed documentation of requirements and research|
+|2_Architecture|Structural and Behavioural diagrams|
+|3_Implementation|source codes and test cases|
+|4_TestPlanAndOutput|Expected and Actual Outputs|
+|5_Report|Report of the project|
+|6_ImagesAndVideos|Image and video of output execution|
